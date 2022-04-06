@@ -12,7 +12,7 @@
 
 1. 拉取项目，安装依赖
 ```sh
-git clone https://github.com/openhacking/bypass-captcha
+git clone https://github.com/openHacking/bypass-captcha.git
 cd bypass-captcha
 npm i
 ```

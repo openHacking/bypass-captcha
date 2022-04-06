@@ -13,7 +13,7 @@ Complete analysis [How to Bypass Captcha Automatic Login with Nodejs + Playwrigh
 1. Pull the project and install the dependencies
 
 ```sh
-git clone https://github.com/openhacking/bypass-captcha
+git clone https://github.com/openHacking/bypass-captcha.git
 cd bypass-captcha
 npm i
 ```
