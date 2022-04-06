@@ -1,0 +1,18 @@
+{
+  "name": "bypass-captcha",
+  "version": "1.0.0",
+  "description": "Bypass Captcha Automatic Login with Nodejs + Playwright + 2Captcha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "openHacking <lwebapp@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^1.20.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "request": "^2.88.2"
+  }
+}
